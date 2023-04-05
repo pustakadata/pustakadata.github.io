@@ -1,0 +1,50 @@
+{
+      "app": {
+        "status": "1",
+        "ebook_pdf_url": "",
+        "ebook_description": "<p>Master Ebook 2022.</p>",
+        "allow_save_book_in_storage": "true",
+        "swipe_horizontal_reading_book": "true",
+        "show_scroll_handle_reading_book": "true",
+        "custom_table_of_contents": "true"
+      },
+      "notification": {
+        "fcm_notification_topic": "pajak",
+        "onesignal_app_id": "fc3db91d-a0aa-4b27-9066-5d0bb910b3d8"
+      },
+      "url": {
+        "more_apps_url": "https://play.google.com/store/apps/dev?id=5429075517777108560",
+        "privacy_policy_url": "https://sites.google.com/view/kebijakan-pengguna",
+        "redirect_url": ""
+      },
+      "table_of_contents": [
+        {
+          "page_title": "COVER",
+          "page_number": 1
+        },
+        {
+          "page_title": "DAFTAR ISI",
+          "page_number": 2
+        },
+        {
+          "page_title": "Introduction",
+          "page_number": 4
+        },
+        {
+          "page_title": "What is Elementor",
+          "page_number": 5
+        },
+        {
+          "page_title": "ELementor Free",
+          "page_number": 7
+        },
+        {
+          "page_title": "Install & Activation",
+          "page_number": 9
+        },
+        {
+          "page_title": "Credits",
+          "page_number": 58
+        }
+      ]
+    }
