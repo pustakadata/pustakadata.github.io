@@ -9,8 +9,8 @@
         "custom_table_of_contents": "true"
       },
       "notification": {
-        "fcm_notification_topic": "pajak",
-        "onesignal_app_id": "fc3db91d-a0aa-4b27-9066-5d0bb910b3d8"
+        "fcm_notification_topic": "master-ebook",
+        "onesignal_app_id": ""
       },
       "url": {
         "more_apps_url": "https://play.google.com/store/apps/dev?id=5429075517777108560",

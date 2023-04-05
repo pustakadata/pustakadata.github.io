@@ -1,0 +1,70 @@
+{
+      "app": {
+        "status": "1",
+        "ebook_pdf_url": "",
+        "ebook_description": "<p>Buku ajar Pendidikan Kewarganegaraan ini ditulis oleh Dr.Riana Kesuma Ayu, SH. MH.</p>",
+        "allow_save_book_in_storage": "true",
+        "swipe_horizontal_reading_book": "true",
+        "show_scroll_handle_reading_book": "true",
+        "custom_table_of_contents": "true"
+      },
+      "notification": {
+        "fcm_notification_topic": "kewarganegaraan",
+        "onesignal_app_id": ""
+      },
+      "url": {
+        "more_apps_url": "https://play.google.com/store/apps/dev?id=5429075517777108560",
+        "privacy_policy_url": "https://sites.google.com/view/kebijakan-pengguna",
+        "redirect_url": ""
+      },
+      "table_of_contents": [
+        {
+          "page_title": "COVER",
+          "page_number": 1
+        },
+          {
+          "page_title": "PRA KATA",
+          "page_number": 2
+        },
+          {
+          "page_title": "DAFTAR ISI",
+          "page_number": 3
+        },
+            {
+          "page_title": "BAB 1",
+          "page_number": 7
+        },
+        {
+          "page_title": "BAB 2",
+          "page_number": 20
+        },
+        {
+          "page_title": "BAB 3",
+          "page_number": 35
+        },
+        {
+          "page_title": "BAB 4",
+          "page_number": 57
+        },
+        {
+          "page_title": "BAB 5",
+          "page_number": 84
+        },
+        {
+          "page_title": "BAB 6",
+          "page_number": 107
+        },
+        {
+          "page_title": "BAB 7",
+          "page_number": 127
+        },
+        {
+          "page_title": "BAB 8",
+          "page_number": 155
+        },
+        {
+          "page_title": "DAFTAR PUSTAKA",
+          "page_number": 178
+        }
+      ]
+    }

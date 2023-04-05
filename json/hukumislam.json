@@ -1,0 +1,63 @@
+{
+	"app": {
+		"status": "1",
+		"ebook_pdf_url": "https://drive.google.com/file/d/1-z83xN-RMk10z6BwVf2_CRnr5sKTDMOl",
+		"ebook_description": "<p>Materi kuliah Hukum Islam yang lengkap disusun oleh Dr. Riana Kesuma Ayu dengan desertasinya yang menitikberatkan pada permasalahan hukum waris menjadi literatur terbaik untuk para akademisi dan praktisi hukum.</p>",
+		"allow_save_book_in_storage": "true",
+		"swipe_horizontal_reading_book": "true",
+		"show_scroll_handle_reading_book": "true",
+		"custom_table_of_contents": "true"
+	},
+	"notification": {
+		"fcm_notification_topic": "hukum_islam",
+		"onesignal_app_id": "d4e5eddb-fda3-4122-b13e-0ba8f41e5a21"
+	},
+	"url": {
+		"more_apps_url": "https://play.google.com/store/apps/dev?id=5429075517777108560",
+		"privacy_policy_url": "https://sites.google.com/view/kebijakan-pengguna",
+		"redirect_url": ""
+	},
+
+	"table_of_contents": [
+		{
+			"page_title": "PRA KATA",
+			"page_number": 2
+		},
+		{
+			"page_title": "DAFTAR ISI",
+			"page_number": 3
+		},
+		{
+			"page_title": "BAB 1",
+			"page_number": 6
+		},
+		{
+			"page_title": "BAB 2",
+			"page_number": 28
+		},
+		{
+			"page_title": "BAB 3",
+			"page_number": 51
+		},
+		{
+			"page_title": "BAB 4",
+			"page_number": 91
+		},
+		{
+			"page_title": "BAB 5",
+			"page_number": 123
+		},
+			{
+			"page_title": "BAB 6",
+			"page_number": 140
+		},
+			{
+			"page_title": "BAB 7",
+			"page_number": 149
+		},
+		{
+			"page_title": "DAFTAR PUSTAKA",
+			"page_number": 159
+		}
+	]
+}
