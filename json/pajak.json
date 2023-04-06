@@ -1,0 +1,50 @@
+{
+      "app": {
+        "status": "1",
+        "ebook_pdf_url": "https://www.dropbox.com/s/x8mfyrxnqmfhuil/hukum_pajak.pdf?dl=1",
+        "ebook_description": "<p>Materi kuliah Hukum Pajak ini disusun oleh Dr. Riana Kesuma Ayu SH.MH.</p><p>Dipublikasikan secara digital melalui aplikasi android oleh Pustaka Data dan dikembangkan oleh mitranya Rilis Apps sejak tahun 2020.</p>",
+        "allow_save_book_in_storage": "true",
+        "swipe_horizontal_reading_book": "true",
+        "show_scroll_handle_reading_book": "true",
+        "custom_table_of_contents": "true"
+      },
+      "notification": {
+        "fcm_notification_topic": "pajak",
+        "onesignal_app_id": "fc3db91d-a0aa-4b27-9066-5d0bb910b3d8"
+      },
+      "url": {
+        "more_apps_url": "https://play.google.com/store/apps/dev?id=5429075517777108560",
+        "privacy_policy_url": "https://pages.flycricket.io/hukum-pajak-0/privacy.html",
+        "redirect_url": ""
+      },
+      "table_of_contents": [
+        {
+          "page_title": "DAFTAR ISI",
+          "page_number": 4
+        },
+        {
+          "page_title": "BAB 1",
+          "page_number": 6
+        },
+        {
+          "page_title": "BAB 2",
+          "page_number": 93
+        },
+        {
+          "page_title": "BAB 3",
+          "page_number": 184
+        },
+        {
+          "page_title": "BAB 4",
+          "page_number": 352
+        },
+        {
+          "page_title": "BAB 5",
+          "page_number": 455
+        },
+        {
+          "page_title": "DAFTAR PUSTAKA",
+          "page_number": 461
+        }
+      ]
+    }

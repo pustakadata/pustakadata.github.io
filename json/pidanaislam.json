@@ -1,0 +1,70 @@
+{
+      "app": {
+        "status": "1",
+        "ebook_pdf_url": "https://www.dropbox.com/s/rgbnyiajmso4ijc/pidana-islam.pdf?dl=1",
+        "ebook_description": "<p>Hukum Pidana Islam.</p>",
+        "allow_save_book_in_storage": "true",
+        "swipe_horizontal_reading_book": "true",
+        "show_scroll_handle_reading_book": "true",
+        "custom_table_of_contents": "true"
+      },
+      "notification": {
+        "fcm_notification_topic": "pidana-islam",
+        "onesignal_app_id": ""
+      },
+      "url": {
+        "more_apps_url": "https://play.google.com/store/apps/dev?id=5429075517777108560",
+        "privacy_policy_url": "https://sites.google.com/view/kebijakan-pengguna",
+        "redirect_url": ""
+      },
+      "table_of_contents": [
+        {
+          "page_title": "COVER",
+          "page_number": 1
+        },
+        {
+          "page_title": "KATA PENGANTAR",
+          "page_number": 4
+        },
+        {
+          "page_title": "DAFTAR ISI",
+          "page_number": 8
+        },
+        {
+          "page_title": "BAB I",
+          "page_number": 13
+        },
+        {
+          "page_title": "BAB II",
+          "page_number": 66
+        },
+        {
+          "page_title": "BAB III",
+          "page_number": 214
+        },
+        {
+          "page_title": "BAB IV",
+          "page_number": 245
+        },
+        {
+          "page_title": "BAB V",
+          "page_number": 291
+        },
+        {
+          "page_title": "BAB VI",
+          "page_number": 372
+        },
+        {
+          "page_title": "BAB VII",
+          "page_number": 444
+        },
+        {
+          "page_title": "DAFTAR PUSTAKA",
+          "page_number": 471
+        },
+        {
+          "page_title": "BIOGRAFI PENULIS",
+          "page_number": 476
+        }
+      ]
+    }
