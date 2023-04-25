@@ -1,0 +1,55 @@
+{
+	"app": {
+		"status": "1",
+		"ebook_pdf_url": "https://www.dropbox.com/s/czenttmwz8ujnb1/adr_fina.pdf?dl=1",
+		"ebook_description": "<p></p>",
+		"allow_save_book_in_storage": "true",
+		"swipe_horizontal_reading_book": "true",
+		"show_scroll_handle_reading_book": "true",
+		"custom_table_of_contents": "true"
+	},
+	"notification": {
+		"fcm_notification_topic": "adr",
+		"onesignal_app_id": ""
+	},
+	"url": {
+		"more_apps_url": "https://play.google.com/store/apps/dev?id=5429075517777108560",
+		"privacy_policy_url": "https://sites.google.com/view/kebijakan-pengguna",
+		"redirect_url": ""
+	},
+
+	"table_of_contents": [
+		{
+			"page_title": "COVER",
+			"page_number": 1
+		},
+		{
+			"page_title": "KATA PENGANTAR",
+			"page_number": 2
+		},
+		{
+			"page_title": "DAFTAR ISI",
+			"page_number": 3
+		},
+		{
+			"page_title": "BAB I",
+			"page_number": 5
+		},
+		{
+			"page_title": "BAB II",
+			"page_number": 40
+		},
+		{
+			"page_title": "BAB III",
+			"page_number": 105
+		},
+		{
+			"page_title": "BAB IV",
+			"page_number": 159
+		},
+		{
+			"page_title": "BAHAN BACAAN",
+			"page_number": 179
+		}
+	]
+}
