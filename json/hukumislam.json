@@ -1,7 +1,7 @@
 {
 	"app": {
 		"status": "1",
-		"ebook_pdf_url": "https://www.dropbox.com/s/sp3jrmdfa3xvk65/hukumislam.pdf?dl=1",
+		"ebook_pdf_url": "",
 		"ebook_description": "<p>Materi kuliah Hukum Islam yang lengkap disusun oleh Dr. Riana Kesuma Ayu dengan desertasinya yang menitikberatkan pada permasalahan hukum waris menjadi literatur terbaik untuk para akademisi dan praktisi hukum.</p>",
 		"allow_save_book_in_storage": "true",
 		"swipe_horizontal_reading_book": "true",

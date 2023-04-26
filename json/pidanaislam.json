@@ -1,7 +1,7 @@
 {
       "app": {
         "status": "1",
-        "ebook_pdf_url": "https://www.dropbox.com/s/rgbnyiajmso4ijc/pidana-islam.pdf?dl=1",
+        "ebook_pdf_url": "",
         "ebook_description": "<p>Hukum Pidana Islam.</p>",
         "allow_save_book_in_storage": "true",
         "swipe_horizontal_reading_book": "true",
