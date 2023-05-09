@@ -2,7 +2,6 @@
 	"app": {
 		"status": "1",
 		"ebook_pdf_url": "",
-		"ebook_description": "",
 		"allow_save_book_in_storage": "true",
 		"swipe_horizontal_reading_book": "true",
 		"show_scroll_handle_reading_book": "true",
