@@ -21,43 +21,40 @@
 	"table_of_contents": [
 		{
 			"page_title": "PRA KATA",
-			"page_number": 2
-		},
-		{
-			"page_title": "DAFTAR ISI",
 			"page_number": 3
 		},
 		{
+			"page_title": "DAFTAR ISI",
+			"page_number": 5
+		},
+		{
 			"page_title": "BAB 1",
-			"page_number": 6
+			"page_number": 8
 		},
 		{
 			"page_title": "BAB 2",
-			"page_number": 28
+			"page_number": 27
 		},
 		{
 			"page_title": "BAB 3",
-			"page_number": 51
+			"page_number": 52
 		},
 		{
 			"page_title": "BAB 4",
-			"page_number": 91
+			"page_number": 64
 		},
 		{
 			"page_title": "BAB 5",
-			"page_number": 123
+			"page_number": 77
 		},
 			{
 			"page_title": "BAB 6",
-			"page_number": 140
+			"page_number": 86
 		},
+			
 			{
-			"page_title": "BAB 7",
-			"page_number": 149
-		},
-		{
 			"page_title": "DAFTAR PUSTAKA",
-			"page_number": 159
+			"page_number": 105
 		}
 	]
 }
