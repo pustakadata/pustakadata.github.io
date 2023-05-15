@@ -2,15 +2,15 @@
 	"app": {
 		"status": "1",
 		"ebook_pdf_url": "",
-		"ebook_description": "<p>Materi kuliah Hukum Islam yang lengkap disusun oleh Dr. Riana Kesuma Ayu dengan desertasinya yang menitikberatkan pada permasalahan hukum waris menjadi literatur terbaik untuk para akademisi dan praktisi hukum.</p>",
+		"ebook_description": "<p>Dr.Riana Kesuma Ayu, SH.MH.</p>",
 		"allow_save_book_in_storage": "true",
 		"swipe_horizontal_reading_book": "true",
 		"show_scroll_handle_reading_book": "true",
 		"custom_table_of_contents": "true"
 	},
 	"notification": {
-		"fcm_notification_topic": "hukum_islam",
-		"onesignal_app_id": "d4e5eddb-fda3-4122-b13e-0ba8f41e5a21"
+		"fcm_notification_topic": "hukum_komersial",
+		"onesignal_app_id": ""
 	},
 	"url": {
 		"more_apps_url": "https://play.google.com/store/apps/dev?id=5429075517777108560",
